@@ -1,3 +1,6 @@
+# Descripción
+Esta app hace una llamada a una API de países, podemos seleccionar un continente, anidamos un selector con los países, y de ahí se anida un tercer selector que nos muestra las fronteras. 
+
 # Selectores
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.3.
